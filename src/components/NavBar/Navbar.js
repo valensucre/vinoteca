@@ -8,7 +8,7 @@ const NavBar = () => {
         <div className="flex flex-row justify-between">
           <div className="flex flex-row">
             <div className="bg-gradient-to-r from-blue-600 to-gray-300 w-10 h-10 rounded-lg"></div>
-            <h1 className="text-3xl text-gray-600 ml-2">Logo</h1>
+            <h1 className="text-3xl text-gray-600 ml-2">Vinos con Valen</h1>
           </div>
           <div className="mt-2">
             <a href="#" className="text-gray-600 hover:text-blue-600 p-4">
